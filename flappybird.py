@@ -1,3 +1,10 @@
+"""
+This is a recreation of Flappy Bird using the Pygame module.
+To run this game, pygame must be installed along with Python 3.7.X.
+Additionally, all images must be downloaded.
+"""
+
+
 import pygame
 import math
 import random
